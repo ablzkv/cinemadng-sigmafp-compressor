@@ -2,6 +2,10 @@
 
 A Windows desktop utility for converting Sigma fp CinemaDNG footage into tiled, compressed CinemaDNG. The app includes its Python runtime and libraries; it does not need a separate Python installation or an internet connection to run.
 
+## Support
+
+If you find this useful, you can support continued development on [Ko-fi](https://ko-fi.com/blatzkrov).
+
 ## Start the app
 
 1. Keep this whole folder together, including `runtime`, `vendor`, and `assets`.
